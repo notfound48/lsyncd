@@ -1,0 +1,6 @@
+runner.o: runner.c /usr/include/stdc-predef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
